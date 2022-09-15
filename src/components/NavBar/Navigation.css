@@ -1,0 +1,31 @@
+.navigation-bar {
+    width: 100vw;
+    height: 3rem;
+    font-weight: bold;
+    display: block;
+    background-color: rgb(156, 154, 154);
+
+}
+
+.navigation-links {
+    text-align: center;
+    color: darkslategrey;
+    height: 100%;
+    cursor: pointer;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.navigation-home:hover,
+.active {
+    background-color: lightgrey;
+
+}
+
+.links-div {
+    width: 200px;
+    margin: 0 auto;
+    height: 100%;
+}

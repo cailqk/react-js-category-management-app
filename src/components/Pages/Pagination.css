@@ -1,0 +1,12 @@
+.pagination-outter {
+    display: flex;
+    justify-content: right;
+}
+
+.pagination {
+    cursor: pointer;
+}
+
+.page-item :active {
+    background-color: lightgray;
+}

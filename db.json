@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "name": "Something here ",
+      "type": "Test",
+      "order": 555,
+      "id": 1
+    },
+    {
+      "name": "Something Here 2",
+      "type": "Test 2",
+      "order": 432,
+      "id": 2
+    },
+    {
+      "name": "Just for test",
+      "type": "Test 3",
+      "order": 765,
+      "id": 3
+    },
+    {
+      "name": "Something here 3",
+      "type": "Test 3",
+      "order": 432,
+      "id": 4
+    },
+    {
+      "name": "Just for test 2",
+      "type": "Movie",
+      "order": 53,
+      "id": 5
+    },
+    {
+      "name": "Just for test 3",
+      "type": "something",
+      "order": 90,
+      "id": 6
+    },
+    {
+      "name": "Batman",
+      "type": "Movie",
+      "order": 100,
+      "id": 7
+    },
+    {
+      "name": "Deadpool",
+      "type": "Movie",
+      "order": 73,
+      "id": 8
+    },
+    {
+      "name": "Joe Rogan",
+      "type": "Podcast",
+      "order": 89,
+      "id": 9
+    },
+    {
+      "name": "Superman",
+      "type": "Movie",
+      "order": 94,
+      "id": 10
+    },
+    {
+      "name": "Friends",
+      "type": "TV-Series",
+      "order": 20,
+      "id": 11
+    },
+    {
+      "name": "How I Met Your Mother",
+      "type": "TV-Series",
+      "order": 21,
+      "id": 12
+    },
+    {
+      "name": "Avengers",
+      "type": "Movie",
+      "order": 223,
+      "id": 13
+    },
+    {
+      "name": "Some Movie",
+      "type": "Movie",
+      "order": 990,
+      "id": 14
+    }
+  ]
+}

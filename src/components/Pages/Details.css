@@ -1,0 +1,64 @@
+.content {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.detail-form {
+    background-color: rgb(167, 167, 167);
+    border: 1px solid;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 1.2rem;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.detail-form div {
+    margin: 10px;
+}
+
+.detail-form label {
+    margin-right: 5px;
+}
+
+.detail-form input {
+    text-align: center;
+    border-radius: 12px;
+}
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons button {
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+    border: 2px solid;
+    border-radius: 12px;
+    font-size: 1.1rem;
+}
+
+.buttons button:hover {
+    transform: scale(1.1);
+    color: white;
+    border-color: black;
+    cursor: pointer;
+}
+
+.save-btn:hover {
+    background-color: lightgreen;
+
+}
+
+.delete-btn:hover {
+    background-color: red;
+}
+
+.back-btn:hover {
+    background-color: grey;
+}
